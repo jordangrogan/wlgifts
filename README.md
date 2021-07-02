@@ -1,3 +1,2 @@
 # Spiritual Gift & Personality Assessment
-Spiritual Gift Assessment for Crossroads Church  
-http://xrchurch.org/gifts
+Spiritual Gift Assessment for Westlake Church
